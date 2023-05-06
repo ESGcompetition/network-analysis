@@ -25,4 +25,9 @@ dart.report('회사이름', '최대주주', '날짜') 호출 시 반환되는 �
 * corp_code : 고유번호
 * corp_name: 법인명
 * stock_knd: 주식의 종류
-* 
+* nm: 성함
+* relate: 관계
+* bsis_posesn_stock_co: 분기 초 주식 수
+* bsis_posesn_stock_qota_rt: 분기 초 지분율
+* trmend_posesn_stock_co: 분기 말 주식 수
+* trmend_posesn_stock_qota_rt: 분기 말 지분율
