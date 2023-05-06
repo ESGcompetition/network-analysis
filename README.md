@@ -17,8 +17,8 @@ dart.report('회사이름', '임원', '날짜') 호출 시 반환되는 피처 �
 * mxmm_shrholdr_relate: 최대주주와의 관계
 * hffc_pd: 재직기간
 * tenure_end_on: 임기만료일
-<<<<<<< HEAD
-image.png
+
+
 =======
 ![image](https://user-images.githubusercontent.com/100129662/236623137-627a9a94-fed2-4454-b4ff-4fa45606ec6c.png)
 >>>>>>> 057961cad415b2333984a0abb4ce0508056bbe23
